@@ -14,7 +14,10 @@
 #     print(x)
     
 #check if item is in touple
-thisSet=("apple", "banana", "cherry")
-print("cherry"in thisSet)
+# thisSet=("apple", "banana", "cherry")
+# print("cherry"in thisSet)
 
-555
+
+
+
+
