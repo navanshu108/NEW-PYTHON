@@ -17,3 +17,5 @@ elif computer=="rock" and player=="scissor" or computer=="paper" and player=="ro
     print("you lose")
 else:
     print("you win")
+    
+    
